@@ -1,0 +1,18 @@
+[
+    {
+        "command": "tell me the weather",
+        "timestamp": "2026-06-12 12:20:58 AM"
+    },
+    {
+        "command": "today's weather of",
+        "timestamp": "2026-06-12 01:07:45 AM"
+    },
+    {
+        "command": "Mumbai's weather",
+        "timestamp": "2026-06-12 01:24:15 AM"
+    },
+    {
+        "command": "Pune's temperature",
+        "timestamp": "2026-06-12 01:27:50 AM"
+    }
+]
