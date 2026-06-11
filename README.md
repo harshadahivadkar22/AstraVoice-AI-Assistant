@@ -185,6 +185,6 @@ python app.py
 
 ## ✍️ Author Information
 
-*   **Developer**: Harshada Hivadkar
+*   **Developer**: Harsha Dahivadkar
 *   **GitHub**: [@harshadahivadkar22](https://github.com/harshadahivadkar22)
 *   **Repository URL**: [AstraVoice-AI-Assistant](https://github.com/harshadahivadkar22/AstraVoice-AI-Assistant)
